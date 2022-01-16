@@ -47,3 +47,27 @@
   <br>
   $ python 
 </h4>
+
+<br>
+
+<h1>3°</h1>
+
+<h1>🔧 Dependencias</h1>
+
+<ul>
+  <li></li>
+</ul>
+
+<h1>📚 Requisitos</h1>
+
+<ul>
+  <li>Python</li>
+ </ul>
+
+<h1>🚀 Iniciando o projeto</h1>
+
+<h4>
+  Rodar a aplicação:
+  <br>
+  $ python 
+</h4>

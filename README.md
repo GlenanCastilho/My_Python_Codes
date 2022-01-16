@@ -26,7 +26,7 @@
 
 <br>
 
-<h1>2°</h1>
+<h1>2° Barra de Carregamento</h1>
 
 <h1>🔧 Dependencias</h1>
 

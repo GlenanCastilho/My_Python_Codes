@@ -66,6 +66,8 @@
   <li>Python</li>
  </ul>
 
+
+
 <h1>🚀 Iniciando o projeto</h1>
 
 <h4>
@@ -89,3 +91,11 @@
 <ul>
   <li>Python</li>
  </ul>
+ 
+ <h1>🚀 Iniciando o projeto</h1>
+
+<h4>
+  Rodar a aplicação:
+  <br>
+  $ python 
+</h4>

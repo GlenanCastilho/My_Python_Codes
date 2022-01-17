@@ -58,6 +58,8 @@
   <li></li>
 </ul>
 
+
+
 <h1>📚 Requisitos</h1>
 
 <ul>
@@ -81,3 +83,9 @@
 <ul>
   <li></li>
 </ul>
+
+<h1>📚 Requisitos</h1>
+
+<ul>
+  <li>Python</li>
+ </ul>

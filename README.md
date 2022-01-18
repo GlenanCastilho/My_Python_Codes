@@ -21,7 +21,7 @@
 <h4>
   Rodar a aplicação:
   <br>
-  $ python 
+  $ python download.py
 </h4>
 
 <br>

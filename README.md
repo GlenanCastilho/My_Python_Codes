@@ -78,7 +78,7 @@
 
 <br>
 
-<h1>4° </h1>
+<h1>4° Detalhes Celular</h1>
 
 <h1>🔧 Dependencias</h1>
 

@@ -126,7 +126,7 @@
 
 <br>
 
-<h1>6° Encurtando Urls</h1>
+<h1>6° Gerador de Qr Code</h1>
 
 <h1>🔧 Dependencias</h1>
 

@@ -45,7 +45,7 @@
 <h4>
   Rodar a aplicação:
   <br>
-  $ python 
+  $ python barra.py
 </h4>
 
 <br>

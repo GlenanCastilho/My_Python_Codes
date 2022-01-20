@@ -73,7 +73,7 @@
 <h4>
   Rodar a aplicação:
   <br>
-  $ python 
+  $ python clima.py
 </h4>
 
 <br>

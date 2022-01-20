@@ -150,7 +150,7 @@
 
 <br>
 
-<h1>6° Gerador de Qr Code</h1>
+<h1>7° Imagem em Cartoon</h1>
 
 <h1>🔧 Dependencias</h1>
 

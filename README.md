@@ -55,7 +55,7 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
+  <li>bs4</li>
 </ul>
 
 

@@ -174,7 +174,7 @@
 
 <br>
 
-<h1>7° Imagem em Cartoon</h1>
+<h1>8° Informações Pc</h1>
 
 <h1>🔧 Dependencias</h1>
 

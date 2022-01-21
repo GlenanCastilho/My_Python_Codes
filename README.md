@@ -97,7 +97,7 @@
 <h4>
   Rodar a aplicação:
   <br>
-  $ python 
+  $ python telefone.py
 </h4>
 
 <br>

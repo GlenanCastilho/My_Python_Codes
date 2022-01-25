@@ -107,7 +107,7 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
+  <li>pyshorteners</li>
 </ul>
 
 <h1>📚 Requisitos</h1>

@@ -121,7 +121,7 @@
 <h4>
   Rodar a aplicação:
   <br>
-  $ python 
+  $ python encurtador.py
 </h4>
 
 <br>

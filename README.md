@@ -247,3 +247,9 @@
 <br>
 
 <h1>11° Senha para PDF</h1>
+
+<h1>🔧 Dependencias</h1>
+
+<ul>
+  <li></li>
+</ul>

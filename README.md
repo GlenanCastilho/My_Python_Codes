@@ -170,7 +170,7 @@
 <h4>
   Rodar a aplicação:
   <br>
-  $ python 
+  $ python transformImagem.py
 </h4>
 
 <br>

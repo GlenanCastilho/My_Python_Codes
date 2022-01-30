@@ -243,3 +243,7 @@
   <br>
   $ python 
 </h4>
+
+<br>
+
+<h1>10° Informações Pc</h1>

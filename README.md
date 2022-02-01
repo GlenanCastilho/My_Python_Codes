@@ -272,3 +272,9 @@
 <br>
 
 <h1>12° Retirar Texto de imagens</h1>
+
+<h1>🔧 Dependencias</h1>
+
+<ul>
+  <li></li>
+</ul>

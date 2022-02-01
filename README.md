@@ -268,3 +268,7 @@
   <br>
   $ python 
 </h4>
+
+<br>
+
+<h1>12° Retirar Texto de imagens</h1>

@@ -316,3 +316,8 @@
   <br>
   $ python 
 </h4>
+
+<br>
+
+<h1>14° Transformar imagens em preto e branco</h1>
+

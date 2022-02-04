@@ -321,3 +321,22 @@
 
 <h1>14° Transformar imagens em preto e branco</h1>
 
+<h1>🔧 Dependencias</h1>
+
+<ul>
+  <li>PIL</li>
+</ul>
+
+<h1>📚 Requisitos</h1>
+
+<ul>
+  <li>Python</li>
+ </ul>
+
+<h1>🚀 Iniciando o projeto</h1>
+
+<h4>
+  Rodar a aplicação:
+   <br>
+  $ python blackAndWhite.py
+</h4>

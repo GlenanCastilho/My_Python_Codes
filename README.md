@@ -341,6 +341,8 @@
   $ python blackAndWhite.py
 </h4>
 
+<br>
+
 <h1>15° Gerador de captcha</h1>
 
 <h1>🔧 Dependencias</h1>

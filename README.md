@@ -364,3 +364,8 @@
    <br>
   $ python blackAndWhite.py
 </h4>
+
+<br>
+
+<h1>16° Códigos de barras</h1>
+

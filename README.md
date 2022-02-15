@@ -443,7 +443,6 @@
 
 <h1>19° Leitor de Qr code</h1>
 
-
 <h1>🔧 Dependencias</h1>
 
 <ul>
@@ -464,3 +463,9 @@
   <br>
   $ python lerQr.py
 </h4>
+
+<br>
+
+<h1>20° Tradutor de Texto</h1>
+
+

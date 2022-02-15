@@ -438,3 +438,8 @@
    <br>
   $ python internet.py
 </h4>
+
+<br>
+
+<h1>19° Leitor de Qr code</h1>
+

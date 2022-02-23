@@ -1,8 +1,8 @@
-from pytube import Youtube
+from pytube import YouTube
 
 link = input("Link do vídeo: ")
 path = input("Diretório para salvar: ")
-yt = Youtube(link)
+yt = YouTube(link)
 
 print("Título: ", yt.title)
 print("Número de views: ", yt.views)

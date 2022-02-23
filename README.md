@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/67304453/147499611-0facc17f-37d0-4d92-8531-93008967ce11.png" width="300" >
 </div>
 
-<h1>1° Download Youtube Videos</h1>
+<h1>1° Download Youtube Video</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/67304453/155330235-42c511e8-0009-4430-8282-bb633ec5649d.PNG" width="1000" height="200" >

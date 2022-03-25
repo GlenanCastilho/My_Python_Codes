@@ -5,7 +5,7 @@
 <h1>1° Download Youtube Video</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67304453/155330235-42c511e8-0009-4430-8282-bb633ec5649d.PNG" width="1000" height="200" >
+  <img src="https://user-images.githubusercontent.com/67304453/155330235-42c511e8-0009-4430-8282-bb633ec5649d.PNG" width="700" height="150" >
 </div>
 
 <h1>🔧 Dependencias</h1>
@@ -31,6 +31,10 @@
 <br>
 
 <h1>2° Barra de Carregamento</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67304453/160069471-d20c17a3-580b-4350-9c29-73253da73d84.PNG" width="600" height="100" >
+</div>
 
 <h1>🔧 Dependencias</h1>
 

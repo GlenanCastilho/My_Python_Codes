@@ -60,6 +60,10 @@
 
 <h1>3° Clima Web Scraping</h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67304453/160874899-54164916-d3c9-445a-86b7-b69103262aab.PNG" width="600" height="200" >
+</div>
+
 <h1>🔧 Dependencias</h1>
 
 <ul>

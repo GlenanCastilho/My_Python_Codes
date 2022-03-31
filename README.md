@@ -140,6 +140,8 @@
 
 <h1>6° Gerador de Qr Code</h1>
 
+https://user-images.githubusercontent.com/67304453/161137884-117ce33f-968b-455c-8def-ecf0038b55d7.png
+
 <h1>🔧 Dependencias</h1>
 
 <ul>

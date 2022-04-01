@@ -169,9 +169,8 @@
 <h1>7° Imagem em Cartoon</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67304453/161137884-117ce33f-968b-455c-8def-ecf0038b55d7.png" width="300" height="300" >
+  <img src="https://user-images.githubusercontent.com/67304453/161257015-932ec045-8c06-46e9-a790-324c8201b3fa.PNG" width="300" height="300" >
 </div>
-https://user-images.githubusercontent.com/67304453/161257015-932ec045-8c06-46e9-a790-324c8201b3fa.PNG
 
 <h1>🔧 Dependencias</h1>
 

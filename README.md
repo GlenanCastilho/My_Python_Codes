@@ -197,6 +197,8 @@
 
 <h1>8° Informações Pc</h1>
 
+https://user-images.githubusercontent.com/67304453/161447525-f0d06594-e7a0-4b58-86de-e3314c30860d.PNG
+
 <h1>🔧 Dependencias</h1>
 
 <ul>

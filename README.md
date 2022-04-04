@@ -247,7 +247,7 @@
 
 <br>
 
-<h1>10° Informações Pc</h1>
+<h1>10° Notificações no Desktop</h1>
 
 <h1>🔧 Dependencias</h1>
 

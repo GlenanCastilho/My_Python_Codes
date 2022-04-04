@@ -225,6 +225,10 @@
 
 <h1>9° Jogo de Dados</h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67304453/161532957-bcc2c3e2-bd88-47bc-8a56-5e8072a49267.PNG" width="400" height="250" >
+</div>
+
 <h1>🔧 Dependencias</h1>
 
 <ul>

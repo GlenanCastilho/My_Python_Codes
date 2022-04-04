@@ -223,7 +223,7 @@
 
 <br>
 
-<h1>9° Informações Pc</h1>
+<h1>9° Jogo de Dados</h1>
 
 <h1>🔧 Dependencias</h1>
 

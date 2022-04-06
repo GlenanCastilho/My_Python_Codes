@@ -253,7 +253,9 @@
 
 <h1>10° Notificações no Desktop</h1>
 
-https://user-images.githubusercontent.com/67304453/161850103-4d53acb3-7982-4314-87a3-4ebc7557a582.PNG
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67304453/161850103-4d53acb3-7982-4314-87a3-4ebc7557a582.PNG" width="700" height="150" >
+</div>
 
 <h1>🔧 Dependencias</h1>
 

@@ -357,7 +357,9 @@
 
 <h1>14° Transformar imagens em preto e branco</h1>
 
-https://user-images.githubusercontent.com/67304453/162212819-c041062b-e539-4737-876d-a66141ca4de9.PNG
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67304453/162212819-c041062b-e539-4737-876d-a66141ca4de9.PNG" width="700" height="250" >
+</div>
 
 <h1>🔧 Dependencias</h1>
 

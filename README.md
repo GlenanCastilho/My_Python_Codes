@@ -411,10 +411,10 @@
 
 <br>
 
-<h1>16° Códigos de barras</h1>
+<h1>16° Gerador de Códigos de barras</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67304453/163245405-9c464d5b-63bc-47c7-9756-e0b4a2ee568d.png" width="600" height="100" >
+  <img src="https://user-images.githubusercontent.com/67304453/163245405-9c464d5b-63bc-47c7-9756-e0b4a2ee568d.png" width="600" height="200" >
 </div>
 
 <h1>🔧 Dependencias</h1>
